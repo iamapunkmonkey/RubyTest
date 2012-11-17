@@ -1,0 +1,356 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"color-gra",
+				"color-gray_dark"
+			],
+			[
+				"trac",
+				"track"
+			],
+			[
+				"e",
+				"error"
+			],
+			[
+				"item",
+				"items"
+			],
+			[
+				"to",
+				"toArray"
+			],
+			[
+				"mong",
+				"mongo"
+			],
+			[
+				"mysqlerr",
+				"mysql_error"
+			],
+			[
+				"imgme",
+				"img_med"
+			],
+			[
+				"al",
+				"album_mbid"
+			],
+			[
+				"art",
+				"artist"
+			],
+			[
+				"alb",
+				"album_mbid"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"twee",
+				"Tweet"
+			],
+			[
+				"remov",
+				"removeObject"
+			],
+			[
+				"tweet",
+				"tweetsController"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 58.0,
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"folder",
+				"Project: Add Folder"
+			],
+			[
+				"save",
+				"Project: Save As"
+			]
+		],
+		"width": 416.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Source Code/node_test/server.js",
+		"/C/Users/Zachary/Dropbox/Repos/fluxus/README",
+		"/C/Source Code/Less_Lesson/style.css",
+		"/C/Source Code/Less_Lesson/index.html",
+		"/C/Source Code/Less_Lesson/helper.less",
+		"/C/Source Code/Less_Lesson/style.less",
+		"/C/Source Code/year/index.html",
+		"/C/Source Code/year/assets/js/app.js",
+		"/C/SharpDX/Samples/Win8/CommonDX/CoreWindowTarget.cs",
+		"/C/SharpDX/Samples/Win8/CommonDX/DeviceManager.cs",
+		"/C/SharpDX/Samples/Win8/CommonDX/DragHandler.cs",
+		"/C/SharpDX/Samples/Win8/CommonDX/MediaPlayer.cs",
+		"/C/SharpDX/Samples/Win8/CommonDX/FpsRenderer.cs",
+		"/C/SharpDX/Samples/Win8/CommonDX/SurfaceImageSourceTarget.cs",
+		"/C/SharpDX/Samples/Win8/CommonDX/SwapChainBackgroundPanelTarget.cs",
+		"/C/SharpDX/Samples/Win8/CommonDX/SwapChainTargetBase.cs",
+		"/C/SharpDX/Samples/Win8/CommonDX/TargetBase.cs",
+		"/C/SharpDX/Samples/Win8/CommonDX/TextureLoader.cs",
+		"/C/Users/Zachary/Downloads/resharper v7 0 1 incl keymaker core/resharper v7 0 1 incl keymaker core/serial.txt",
+		"/C/Source Code/year_server/server.js",
+		"/C/Source Code/year_server/routes/songs.js",
+		"/C/Users/Zachary/Downloads/CS6 Master Collection.rar/CS6 Master Collection/CS6 Master Collection/KEYGEN-XFORCE [WIN OSX]/Crack-Windows/readme.txt",
+		"/C/Users/Zachary/Downloads/CS6 Master Collection.rar/CS6 Master Collection/CS6 Master Collection/KEYGEN-XFORCE [WIN OSX]/Crack-Windows/install.txt",
+		"/E/Downloads/bob/Samples/Win8/CommonDX/SurfaceImageSourceTarget.cs",
+		"/E/Downloads/bob/Samples/Win8/CommonDX/SwapChainTargetBase.cs",
+		"/E/Downloads/bob/Samples/Win8/CommonDX/DragHandler.cs",
+		"/E/Downloads/bob/Samples/Win8/CommonDX/MediaPlayer.cs",
+		"/E/Downloads/bob/Samples/Win8/CommonDX/FpsRenderer.cs",
+		"/E/Downloads/bob/Samples/Win8/CommonDX/SwapChainBackgroundPanelTarget.cs",
+		"/E/Downloads/bob/Samples/Win8/CommonDX/DeviceManager.cs",
+		"/E/Downloads/bob/Samples/Win8/CommonDX/TargetBase.cs",
+		"/E/Downloads/bob/Samples/Win8/CommonDX/TextureLoader.cs",
+		"/E/Downloads/bob/Samples/Win8/CommonDX/CoreWindowTarget.cs",
+		"/C/Windows/System32/Drivers/etc/hosts",
+		"/C/Source Code/year_server/package.json",
+		"/C/Users/Zachary/Downloads/ADOBE.CS6.0.MASTER.COLLECTION.WIN.OSX.KEYGEN-XFORCE/ADOBE.CS6.0.MASTER.COLLECTION.WIN.OSX.KEYGEN-XFORCE/Crack-Windows/install.txt",
+		"/C/wamp/www/songapi/track.sql",
+		"/C/wamp/www/songapi/api.php",
+		"/C/Source Code/year_server/routes/song.js",
+		"/C/Users/Zachary/Desktop/hosts",
+		"/C/Users/Frank/Downloads/infinite-scroll/assets/js/app.js",
+		"/C/Users/Frank/Downloads/infinite-scroll/index.html",
+		"/C/Users/Frank/Downloads/infinite-scroll/assets/css/style.css",
+		"/C/Source Code/year/index.htm",
+		"/C/Users/Frank/Downloads/bob/Samples/Win8/CommonDX/MediaPlayer.cs",
+		"/C/Users/Frank/Downloads/bob/Samples/Win8/CommonDX/DragHandler.cs",
+		"/C/Users/Frank/Downloads/bob/Samples/Win8/CommonDX/SwapChainBackgroundPanelTarget.cs",
+		"/C/Users/Frank/Downloads/bob/Samples/Win8/CommonDX/SurfaceImageSourceTarget.cs",
+		"/C/Users/Frank/Downloads/bob/Samples/Win8/CommonDX/FpsRenderer.cs",
+		"/C/Users/Frank/Downloads/bob/Samples/Win8/CommonDX/TextureLoader.cs",
+		"/C/Users/Frank/Downloads/bob/Samples/Win8/CommonDX/CoreWindowTarget.cs",
+		"/C/Users/Frank/Downloads/bob/Samples/Win8/CommonDX/TargetBase.cs",
+		"/C/Users/Frank/Downloads/bob/Samples/Win8/CommonDX/SwapChainTargetBase.cs",
+		"/C/Users/Frank/Downloads/bob/Samples/Win8/CommonDX/DeviceManager.cs",
+		"/C/Users/Frank/Desktop/Companies applied for.txt",
+		"/C/Users/Frank/Desktop/LaughterII/Assets/20.txt",
+		"/C/Users/Frank/Desktop/ANB/index.html",
+		"/C/Users/Frank/Desktop/Companies applied for",
+		"/C/Users/Frank/Desktop/ANB/contact.php",
+		"/C/Users/Frank/Desktop/ANB/styles/style.less",
+		"/C/Users/Frank/Desktop/ANB/styles/style.css",
+		"/C/Users/Frank/Downloads/onepager/index.html",
+		"/C/Source Code/franz/Franz/src/com/iamapunkmonkey/franz/framework/FranzGameManager.java",
+		"/C/Users/Frank/Downloads/bob/Samples/Direct2D1/BitmapApp/Program.cs",
+		"/C/Users/Frank/Downloads/bob/Samples/Common/DemoConfiguration.cs",
+		"/C/Users/Frank/Downloads/bob/Samples/Common/DemoTime.cs",
+		"/C/Users/Frank/Downloads/bob/Samples/Common/Direct2D1WinFormDemoApp.cs",
+		"/C/Users/Frank/Downloads/bob/Samples/Common/Direct2D1DemoApp.cs",
+		"/C/Users/Frank/Downloads/bob/Samples/Common/Direct3D10DemoApp.cs",
+		"/C/Users/Frank/Downloads/bob/Samples/Common/DemoApp.cs",
+		"/C/Users/Frank/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Frank/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/C/Source Code/ANB/contact.html",
+		"/C/Source Code/ANB/talks.html",
+		"/C/Source Code/ANB/Books.html",
+		"/C/Source Code/ANB/about.html",
+		"/C/Source Code/ANB/index.html",
+		"/H/workspace/PlatyPOW/src/com/baron/platypode/platypusengine/PlatypusGrid.java",
+		"/H/workspace/PlatyPOW/src/com/baron/platypode/platypusengine/PlatypusTiledBackground.java",
+		"/H/workspace/PlatyPOW/src/com/baron/platypode/platypusengine/PlatypusWorld.java",
+		"/H/workspace/PlatyPOW/src/com/baron/platypode/platypusengine/EnvironmentObject.java",
+		"/H/workspace/PlatyPOW/src/com/baron/platypode/platypusengine/GameComponent.java",
+		"/H/workspace/PlatyPOW/src/com/baron/platypode/platypusengine/Image.java",
+		"/H/workspace/PlatyPOW/src/com/baron/platypode/platypusengine/PlatypusCamera.java",
+		"/H/workspace/PlatyPOW/src/com/baron/platypode/platypusengine/GridLocation.java",
+		"/H/workspace/PlatyPOW/src/com/baron/platypode/platypusengine/PlatypusGraphics.java",
+		"/H/workspace/PlatyPOW/src/com/baron/platypode/platypusengine/PlatypusPath.java",
+		"/H/workspace/PlatyPOW/src/com/baron/platypode/platypusengine/PlatypusEngine.java",
+		"/H/workspace/PlatyPOW/src/com/baron/platypode/platypusengine/PlatypusSprite.java",
+		"/H/workspace/PlatyPOW/src/com/baron/platypode/platypusengine/RefreshHandler.java",
+		"/H/workspace/PlatyPOW/src/com/baron/platypode/platypusengine/Sprite.java",
+		"/H/workspace/PlatyPOW/src/com/baron/platypode/platypusengine/TouchObject.java",
+		"/H/workspace/PlatyPOW/src/com/baron/platypode/platypusengine/WorldObject.java",
+		"/C/Users/Frank/Desktop/graphics/FranzAnimation.java",
+		"/H/Desktop/Viking/Allies/SpiritEngine/SpiritEngine/Sprite.cs",
+		"/C/Users/Frank/Desktop/graphics/FranzSprite.java",
+		"/C/Users/Frank/Desktop/graphics/FranzGraphics.java",
+		"/C/Users/Frank/workspace/MadEngine/src/com/themadappers/madengine/engine/MadImage.java",
+		"/C/Users/Frank/workspace/MadEngine/src/com/themadappers/madengine/engine/MadAnimation.java",
+		"/C/Users/Frank/workspace/MadEngine/src/com/themadappers/madengine/engine/MadSprite.java",
+		"/C/Users/Frank/workspace/MadEngine/src/com/themadappers/madengine/engine/MadImageBase.java",
+		"/C/Users/Frank/Desktop/graphics/FranzImage.java",
+		"/C/Source Code/Android-Tile-Based-Game/src/org/ruscoe/example/tilegame/GameImage.java",
+		"/C/Source Code/Android-Tile-Based-Game/src/org/ruscoe/example/tilegame/GameView.java",
+		"/C/Source Code/Learn-OpenGLES-Tutorials/android/AndroidOpenGLESLessons/src/com/learnopengles/android/lesson4/LessonFourActivity.java",
+		"/C/Source Code/Learn-OpenGLES-Tutorials/android/AndroidOpenGLESLessons/src/com/learnopengles/android/lesson4/LessonFourRenderer.java",
+		"/C/Program Files (x86)/FMOD SoundSystem/FMOD Programmers API Windows/examples/playsound/main.cpp",
+		"/C/Program Files (x86)/FMOD SoundSystem/FMOD Programmers API Windows/examples/playlist/main.cpp",
+		"/C/Program Files (x86)/FMOD SoundSystem/FMOD Programmers API Windows/examples/playlist/main.c",
+		"/C/Users/Frank/Downloads/libspotify-12.1.51-win32-release/examples/jukebox/openal-audio.c",
+		"/C/Users/Frank/Downloads/libspotify-12.1.51-win32-release/examples/jukebox/playtrack.c",
+		"/C/Users/Frank/Downloads/libspotify-12.1.51-win32-release/examples/jukebox/alsa-audio.c",
+		"/C/Users/Frank/Downloads/libspotify-12.1.51-win32-release/examples/jukebox/queue.h",
+		"/C/Users/Frank/Downloads/libspotify-12.1.51-win32-release/examples/jukebox/audio.h",
+		"/C/Users/Frank/Downloads/libspotify-12.1.51-win32-release/examples/jukebox/audio.c",
+		"/C/Users/Frank/Downloads/libspotify-12.1.51-win32-release/examples/jukebox/dummy-audio.c",
+		"/C/Users/Frank/Downloads/libspotify-12.1.51-win32-release/examples/jukebox/jukebox.c",
+		"/C/Users/Frank/Downloads/libspotify-12.1.51-win32-release/examples/jukebox/osx-audio.c",
+		"/C/Users/Frank/Downloads/libspotify-12.1.51-win32-release/examples/appkey.c",
+		"/C/Users/Frank/Downloads/libspotify-12.1.51-win32-release/examples/stub/main.h",
+		"/C/Users/Frank/Downloads/libspotify-12.1.51-win32-release/examples/stub/main.c",
+		"/C/Source Code/franz/README.md",
+		"/C/Users/Frank/workspace/FranzOpenGLTest/src/com/iamapunkmonkey/franzopengltest/Run.java",
+		"/C/Users/Frank/workspace/FranzOpenGLTest/src/com/iamapunkmonkey/franzopengltest/MyGLSurfaceView.java",
+		"/C/Users/Frank/workspace/FranzOpenGLTest/src/com/iamapunkmonkey/franzopengltest/Square.java",
+		"/C/Users/Frank/workspace/FranzOpenGLTest/src/com/iamapunkmonkey/franzopengltest/GLRenderer.java",
+		"/C/wamp/www/mad/index.html",
+		"/C/Users/Frank/Downloads/OpenGLES/OpenGLES20Complete/src/com/example/android/opengl/MyGLRenderer.java"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"wine",
+			"Wine",
+			"wines",
+			" NOT NULL",
+			"`",
+			"Format",
+			"format",
+			"public"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"song",
+			"Song",
+			"songes",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 35.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/C/Source Code/ANB/site.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 241.0,
+	"status_bar_visible": true
+}
